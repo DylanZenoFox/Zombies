@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Zombies</label>
+		<id>29</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Zombies.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Zombies.jcp</path>
+		</project>
+	</projects>
+</workspace>
